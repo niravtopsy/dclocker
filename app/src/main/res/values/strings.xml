@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoLibsProject</string>
+    <string name="show_progress">Show Progress</string>
+    <string name="hide_progress">Hide Progress</string>
+</resources>
